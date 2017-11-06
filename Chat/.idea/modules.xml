@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FanChat.iml" filepath="$PROJECT_DIR$/FanChat.iml" />
+      <module fileurl="file://C:\Work\workspace\AndroidStudioProjects\FanChat\QQDemo.iml" filepath="C:\Work\workspace\AndroidStudioProjects\FanChat\QQDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
